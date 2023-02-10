@@ -8,6 +8,6 @@ else
     for (i = 1; i <= Number; i++)
      {
         if ((i % 2) == 0) 
-  {Console.WriteLine("next integer from 1 to" +Number +" is " +i);}
+  {Console.WriteLine("next integer from 1 to " +Number +" is " +i);}
 
     }
